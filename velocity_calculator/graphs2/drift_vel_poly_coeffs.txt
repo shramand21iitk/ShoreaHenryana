@@ -1,0 +1,4 @@
+Degree 1: [nan, nan]
+Degree 2: [nan, nan, nan]
+Degree 3: [nan, nan, nan, nan]
+Degree 4: [nan, nan, nan, nan, nan]
